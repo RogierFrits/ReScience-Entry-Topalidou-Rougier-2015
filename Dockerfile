@@ -1,4 +1,4 @@
-FROM rougier-base
+FROM topalidou-rougier-2015-base
 LABEL maintainer "rogier.mars@student.vu.nl"
 
 # Create WORKDIR
