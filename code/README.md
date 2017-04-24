@@ -9,6 +9,9 @@ This is a reference implementation of the following model:
 
 ## Installation
 
+> A Docker image with this environment is also available,
+see the README.md of the docker directory.
+
 It requires python, numpy, cython and matplotlib:
 
 ```bash
@@ -30,8 +33,6 @@ $ python single-trial.py
 ```
 
 ![](./figure-1.png)
-
-
 Or the full version:
 
 ```bash
