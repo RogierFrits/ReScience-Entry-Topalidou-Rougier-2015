@@ -34,6 +34,7 @@ $ python single-trial.py
 
 ![](./figure-1.png)
 
+
 Or the full version:
 
 ```bash
